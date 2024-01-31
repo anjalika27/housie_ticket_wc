@@ -1,4 +1,4 @@
-<h1>Vanashree_HousieTicket</h1>
+<h1>Housie Ticket using Matlab</h1>
 <h2>Overview</h2>
 The Housie Ticket Generator is a MATLAB program that creates randomized Housie (Bingo) tickets based on traditional rules. Housie is a popular game of chance where players mark off numbers on their tickets as they are called out. This generator ensures fair and randomized ticket creation, adhering to the specified rules for each column.
 
